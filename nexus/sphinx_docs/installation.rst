@@ -12,7 +12,7 @@ working python environment exists.
 Setting environment variables
 -----------------------------
 
-To make your Python installation (must be Python 2.x as 3.x is not supported)
+To make your Python installation (must be Python 3.x as 2.x is not supported)
 aware of Nexus, simply set the PYTHONPATH environment variable.  For example, in bash this would look like:
 
 .. code-block:: rest
